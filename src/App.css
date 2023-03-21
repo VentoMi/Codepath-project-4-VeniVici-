@@ -1,0 +1,38 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.mainContainer {
+  display: flex;
+  flex: 1;
+  
+}
+
+.gallery {
+  flex: 1;
+  border: 2px solid;
+  border-radius: 5%;
+  padding: 10px;
+  margin: 5px;
+  font-size: 80%;
+}
+
+.banned {
+  flex: 1;
+  border: 2px solid;
+  border-radius: 5%;
+  padding: 10px;
+  margin: 5px;
+  font-size: 80%;
+}
+
+.mainDisplay {
+  flex: 2;
+  border: 2px solid;
+  border-radius: 5%;
+  padding: 10px;
+  margin: 5px;
+}
